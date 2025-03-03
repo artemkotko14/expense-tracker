@@ -21,6 +21,7 @@ Expense Tracker is a simple and intuitive web application that allows users to t
 - **Zod** (for schema validation)
 - **React Hook Form** (for form handling)
 - **Vite** (for a fast development experience)
+- **Bootstrap** (for styling and responsive design)
 
 ## 📂 Project Structure
 ```
