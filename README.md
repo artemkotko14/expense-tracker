@@ -3,6 +3,11 @@
 ## 📌 Overview
 Expense Tracker is a simple and intuitive web application that allows users to track their expenses efficiently. Built with React and TypeScript, this app provides an interactive UI for adding, categorizing, and managing expenses.
 
+## 🔗 Links
+
+- Solution URL: [Github](https://github.com/artemkotko14/expense-tracker)
+- Live Site URL: [Webpage](https://artemkotko14.github.io/expense-tracker/)
+
 ## 🚀 Features
 - Add new expenses with a description, amount, and category.
 - Categorize expenses for better organization.
